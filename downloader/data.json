@@ -1,0 +1,7 @@
+[
+	{
+		"type": "pdf",
+		"endpoint": "files/pdf/file_1.pdf",
+		"title": "PDF File 1"
+	}
+]
