@@ -1,7 +1,12 @@
 [
 	{
 		"type": "pdf",
-		"endpoint": "files/pdf/file_1.pdf",
-		"title": "PDF File 1"
+		"endpoint": "https://arxiv.org/pdf/1904.00011",
+		"title": "MEASURING STAR-FORMATION HISTORIES, DISTANCES, AND METALLICITIES WITH PIXEL COLOR-MAGNITUDE DIAGRAMS I: MODEL DEFINITION AND MOCK TESTS"
+	},
+	{
+		"type": "mp3",
+		"endpoint": "https://github.com/johnshade-himself/shady-ws/tree/main/downloader/files/mp3/(02) [Ария] Небо Тебя Найдёт.mp3",
+		"title": "(02) [Ария] Небо Тебя Найдёт"
 	}
 ]
