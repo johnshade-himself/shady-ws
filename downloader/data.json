@@ -2,19 +2,33 @@
 	{
 		"id": "0",
 		"type": "pdf",
+		"url": "https://carlosicaza.com/swiftbooks/SwiftLanguage.pdf",
+		"thumb": "",
+		"category": "Languages/Swift",
+		"title": "Swift Language"
+	},
+	{
+		"id": "1",
+		"type": "pdf",
 		"url": "https://arxiv.org/pdf/1904.00011",
+		"thumb": "",
+		"category": "Astrophysics",
 		"title": "MEASURING STAR-FORMATION HISTORIES, DISTANCES, AND METALLICITIES WITH PIXEL COLOR-MAGNITUDE DIAGRAMS I: MODEL DEFINITION AND MOCK TESTS"
 	},
 	{
 		"id": "2",
 		"type": "pdf",
 		"url": "https://arxiv.org/pdf/1909.00003",
+		"thumb": "",
+		"category": "Astrophysics",
 		"title": "Properties of the Circumgalactic Medium in Cosmic Ray-Dominated Galaxy Halos"
 	},
 	{
-		"id": "1",
+		"id": "3",
 		"type": "mp3",
 		"url": "https://github.com/johnshade-himself/shady-ws/raw/refs/heads/main/downloader/files/mp3/(02)%20%5B%D0%90%D1%80%D0%B8%D1%8F%5D%20%D0%9D%D0%B5%D0%B1%D0%BE%20%D0%A2%D0%B5%D0%B1%D1%8F%20%D0%9D%D0%B0%D0%B9%D0%B4%D1%91%D1%82.mp3",
+		"thumb": "",
+		"category": "Aria/Generator of Evil",
 		"title": "(02) [Ария] Небо Тебя Найдёт"
 	}
 ]
